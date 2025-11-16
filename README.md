@@ -12,7 +12,6 @@ This repository contains a Jupyter Notebook for a Linear Regression assignment, 
 - [Usage](#usage)
 - [Assignment Questions](#assignment-questions)
 - [Results](#results)
-- [License](#license)
 
 ## Project Overview
 
@@ -75,7 +74,3 @@ The notebook includes answers to the following subjective questions:
 - **Assumption Checks:**  
   - Residuals, normality, homoscedasticity, and multicollinearity diagnostics included
 
-## License
-
-This project is for academic purposes only.
-```
